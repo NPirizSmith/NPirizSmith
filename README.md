@@ -24,4 +24,5 @@ Currently, I am focusing on Front-End development with the goal of enhancing use
 ## Let's talk 💬 
 
 
-<a href="https://www.linkedin.com/in/nahuel-piriz-smith/"><img src="https://github.com/NPirizSmith/NPirizSmith/assets/139180590/589ff784-4fc2-40f6-8b82-cfa3a403a8bc" width="100" height="auto"></a>
+### <a href="https://www.linkedin.com/in/nahuel-piriz-smith/"><img src="https://github.com/NPirizSmith/NPirizSmith/assets/139180590/589ff784-4fc2-40f6-8b82-cfa3a403a8bc" width="100" height="auto"></a> - Email: nahuelpirizsmith2@gmail.com                       
+
